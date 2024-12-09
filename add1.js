@@ -1,0 +1,5 @@
+const prompt= require('prompt-sync')();
+var a=parseInt(prompt("enter the number"));
+var b=parseInt(prompt("enter the number"));
+c=a+b;
+console.log("the addtion for two numbers is",c);
